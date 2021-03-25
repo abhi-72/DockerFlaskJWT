@@ -10,5 +10,5 @@ cryptography==2.7
 jwcrypto==0.6.0 
 pycparser==2.19 
 PyJWT==1.7.1
-PyYAML==5.1.2
+PyYAML==5.4
 requests==2.22.0
